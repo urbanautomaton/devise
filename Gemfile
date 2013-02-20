@@ -28,6 +28,6 @@ end
 
 platforms :mri_19 do
   group :mongoid do
-    gem "mongoid", github: "mongoid/mongoid", branch: "4.0.0-dev"
+    gem "mongoid", github: "mongoid/mongoid", branch: "master"
   end
 end
