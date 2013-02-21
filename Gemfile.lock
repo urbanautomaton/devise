@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mongoid/mongoid.git
-  revision: 8124bb3d0200152453763ec9763c3d759651c4fc
+  revision: 74f5a8842f0f8450e4fed27ebe25c923ff8f018b
   branch: master
   specs:
     mongoid (4.0.0)
@@ -11,7 +11,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: a7009172728fbc107cdae1e107003601dcb8fa76
+  revision: c60be72c5243c21303b067c9c5cc398111cf48c8
   branch: master
   specs:
     actionmailer (4.0.0.beta)
@@ -92,7 +92,7 @@ GEM
     multi_json (1.6.1)
     multipart-post (1.1.5)
     nokogiri (1.5.6)
-    oauth2 (0.8.0)
+    oauth2 (0.8.1)
       faraday (~> 0.8)
       httpauth (~> 0.1)
       jwt (~> 0.1.4)
